@@ -1,7 +1,7 @@
 <h1 alight="center">Hi there, I'm <a href="https://github.com/r3ynD" target="blank"> Dmitry</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
   Skills:
-HTML+CSS at the basic level
+HTML+CSS ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) at the basic level
 PHP + MySQL ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) My Admin bd beginner
 Nicepage website builder at the basic level
 C++ and C# with .NET framework
