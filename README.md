@@ -26,9 +26,11 @@ I am a beginner web developer with experience in HTML+CSS and Nicepage website b
 <br>
 <h3>Education:</h3>
 
--  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>
+-  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>, Incoplete higher education "Mechatronics and Robotics"
 
 -  SSTU IT courses (in progress)
+
+
 
 
 <h3>Projects:</h3>
