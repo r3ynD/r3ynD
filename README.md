@@ -20,17 +20,18 @@
 
 - 3D CAD modeling with good proficiency (KOMPAS 3D <img src="https://kompas.ru/source/images/kompas-application/kompas-invisible.png" height=20px with=20px> )
     
-
 <h3>Summary:</h3>
 I am a beginner web developer with experience in HTML+CSS and Nicepage website builder. In addition, I have strong knowledge of programming languages such as C++, C#, .NET, Java, and Kotlin. Currently, I am improving my skills in Android Studio to develop mobile applications. Moreover, I am proficient in 3D CAD modeling using various software.
+
 <br>
-<h4>Education:</h4>
+<h3>Education:</h3>
+
 -  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>
+
 -  "АПТЭК СГТУ Иинформационные технологии"
 
 
-
-<h4>Projects:</h4>
+<h3>Projects:</h3>
 
 - Online School website with a working database (PHP + SQL) of registration and authorization
 
