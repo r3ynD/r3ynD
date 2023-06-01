@@ -16,9 +16,9 @@
 
 - ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-- Nicepage website builder at the basic level 
+- Nicepage <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBBwk1d4RLiMuh5X8i1gZ1i6TVMyl6-xLSXKhc6s&s" height=20px with=20px> website builder at the basic level 
 
-- 3D CAD modeling with good proficiency (KOMPAS 3D)
+- 3D CAD modeling with good proficiency (KOMPAS 3D <img src="https://kompas.ru/source/images/kompas-application/kompas-invisible.png" height=20px with=20px> )
     
 
 <h3>Summary:</h3>
