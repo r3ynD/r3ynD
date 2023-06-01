@@ -25,16 +25,21 @@
 I am a beginner web developer with experience in HTML+CSS and Nicepage website builder. In addition, I have strong knowledge of programming languages such as C++, C#, .NET, Java, and Kotlin. Currently, I am improving my skills in Android Studio to develop mobile applications. Moreover, I am proficient in 3D CAD modeling using various software.
 
 Education:
-- ** <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>**
+-  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>
+-  "АПТЭК СГТУ Иинформационные технологии"
 
 <h4>Work Experience:</h4>
+
+
+
+
+<h4>Projects:</h4>
 
 - Online School website with a working database (PHP + SQL) of registration and authorization
 
 - Self-resume website made with "Nicepage" website builder
 
-
-Projects:
+- Simpe Unity scene with using C# scripts 
 
 
 In conclusion, I am a hardworking and motivated developer eager to learn new technologies and improve my skills continuously.
