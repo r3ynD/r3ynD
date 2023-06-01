@@ -14,7 +14,7 @@
 - ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 - Nicepage website builder at the basic level 
 
@@ -23,13 +23,10 @@
 
 <h3>Summary:</h3>
 I am a beginner web developer with experience in HTML+CSS and Nicepage website builder. In addition, I have strong knowledge of programming languages such as C++, C#, .NET, Java, and Kotlin. Currently, I am improving my skills in Android Studio to develop mobile applications. Moreover, I am proficient in 3D CAD modeling using various software.
-
-Education:
+<br>
+<h4>Education:</h4>
 -  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>
 -  "АПТЭК СГТУ Иинформационные технологии"
-
-<h4>Work Experience:</h4>
-
 
 
 
