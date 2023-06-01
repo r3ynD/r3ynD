@@ -28,7 +28,7 @@ I am a beginner web developer with experience in HTML+CSS and Nicepage website b
 
 -  <a href = "http://en.sstu.ru/">YURI GAGARIN STATE TECHNICAL UNIVERSITY OF SARATOV</a>
 
--  "АПТЭК СГТУ Иинформационные технологии"
+-  SSTU IT courses (in progress)
 
 
 <h3>Projects:</h3>
