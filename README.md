@@ -1,4 +1,4 @@
-<h1 alight="center">Hi there, I'm <a href="https://github.com/r3ynD" target="blank"> Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 alight="center">Hi there, I'm <a href="https://github.com/r3ynD" target="blank"> Dmitry</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
   Skills:
 HTML+CSS at the basic level
