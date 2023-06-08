@@ -1,5 +1,5 @@
 <h1 alight="center">Hi there, I'm <a href="https://vk.com/reyn_d" target="blank"> Dmitry</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <h3>I am a beginner web developer with experience in HTML+CSS and Nicepage website builder. In addition, I have strong knowledge of programming languages such as C++, C#, .NET, Java, and Kotlin. Currently, I am improving my skills in Android Studio to develop mobile applications. Moreover, I am proficient in 3D CAD modeling using various software.</h3>
+  <h3>I am a beginner web developer with experience in HTML+CSS and Nicepage website builder. In addition, I have basic knowledge of programming languages such as C++, C#, .NET, Java, and Kotlin. Currently, I am improving my skills in Android Studio to develop mobile applications. Moreover, I am proficient in 3D CAD modeling using various software.</h3>
   <h2>Skills:</h2> 
   
  <h3>In the process of studying:</h3> 
