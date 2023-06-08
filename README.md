@@ -41,6 +41,8 @@ I am a beginner web developer with experience in HTML+CSS and Nicepage website b
 
 - Simpe Unity scene with using C# scripts 
 
+- Blender 3D model of my phone
+
 
 In conclusion, I am a hardworking and motivated developer eager to learn new technologies and improve my skills continuously.
   
