@@ -33,13 +33,13 @@
 
 <h3>Projects:</h3>
 
-- Online School website with a working database (PHP + SQL) of registration and authorization
+- Online <a href="https://github.com/r3ynD/My-HTML-site-with-PHP-SQL">School website</a> with a working database (PHP + SQL) of registration and authorization
 
-- Self-resume website made with "Nicepage" website builder
+- <a href="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage">Self-resume website</a> made with "Nicepage" website builder
 
 - Simpe Unity scene with using C# scripts 
 
-- Blender 3D model of my phone
+- Blender 3D <a href="https://github.com/r3ynD/Blender-Phone-and-cabel">model of my phone</a>
 
 
 In conclusion, I am a hardworking and motivated developer eager to learn new technologies and improve my skills continuously.
