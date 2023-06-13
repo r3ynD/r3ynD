@@ -41,6 +41,7 @@
 
 - Blender 3D <a href="https://github.com/r3ynD/Blender-Phone-and-cabel">model of my phone</a>
 
+- C++ CLR application for <a href="https://github.com/r3ynD/CLR-NET-application">calculating the area and points</a> of a figure with the calculation of the percentage error
 
 In conclusion, I am a hardworking and motivated developer eager to learn new technologies and improve my skills continuously.
   
