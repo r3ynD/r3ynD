@@ -37,7 +37,7 @@
 
 - <a href="https://github.com/r3ynD/r3ynD_Self-Resume-Nicepage">Self-resume website</a> made with "Nicepage" website builder
 
-- Simpe Unity scene with using C# scripts 
+- Simpe <a href="https://github.com/r3ynD/Simple-Scene-Unity/tree/main">Unity scene with using C# scripts</a> 
 
 - Blender 3D <a href="https://github.com/r3ynD/Blender-Phone-and-cabel">model of my phone</a>
 
